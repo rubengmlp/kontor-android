@@ -1,0 +1,26 @@
+[
+  {
+    "id": "acc_giro",
+    "name": "Business Giro",
+    "iban": "DE89370400440532013000",
+    "balanceCents": 2483500,
+    "availableCents": 2433500,
+    "type": "GIRO"
+  },
+  {
+    "id": "acc_savings",
+    "name": "Reserve Account",
+    "iban": "DE02120300000000202051",
+    "balanceCents": 4200000,
+    "availableCents": 4200000,
+    "type": "SAVINGS"
+  },
+  {
+    "id": "acc_credit",
+    "name": "Business Card",
+    "iban": "DE44500105175407324931",
+    "balanceCents": -124050,
+    "availableCents": 875950,
+    "type": "CREDIT"
+  }
+]

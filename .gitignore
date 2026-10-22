@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+**/build/
+.kotlin/
+captures/
+
+# Android Studio / IDE
+.idea/
+*.iml
+.fleet/
+.vscode/
+
+# Local configuration
+local.properties
+/app/release/
+
+# Signing material — never commit
+*.jks
+*.keystore
+keystore.properties
+
+# Logs, heap dumps and local captures
+*.log
+*.hprof
+/screenshots/
+.DS_Store
+
+# Native build
+.externalNativeBuild/
+.cxx/
